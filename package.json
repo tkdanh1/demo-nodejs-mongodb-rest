@@ -32,6 +32,6 @@
     "request-promise": "^4.2.5",
     "serve-favicon": "~2.5.0",
     "uuid": "^7.0.2",
-    "validator": "^12.2.0"
+    "validator": "^13.7.0"
   }
 }
